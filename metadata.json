@@ -1,0 +1,7 @@
+{
+  "name": "Grand Luxury Tree Mobile",
+  "description": "A 3D interactive Christmas tree with mobile-optimized hand gesture recognition.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
